@@ -1,14 +1,7 @@
 
-[Devpost Link](https://devpost.com/software/carboncalc-cdrksh)
-
-Explore [CarbonCalc](https://climate-hackathon.netlify.app/) for yourself! 
-
-
-## Inspiration
-We were inspired by the lack of self-awareness when it comes to individual impact on the planet due to carbon emissions.
 
 ## What it does
-**CarbonCalc** is a Mobile-First App that takes in user selections/inputs and calculates an estimated Monthly Carbon Footprint amount. The results page gives the user's annual Carbon Footprint and compares it to various countries and ranges ( low emissions / average / high emissions ) per person.
+**CarbonCal** is a Mobile-First App that takes in user selections/inputs and calculates an estimated Monthly Carbon Footprint amount. The results page gives the user's annual Carbon Footprint and compares it to various countries and ranges ( low emissions / average / high emissions ) per person.
 
 ## How we built it
 We built **CarbonCalc** using JavaScript, HTML, CSS and React
