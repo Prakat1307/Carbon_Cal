@@ -10,7 +10,7 @@ function Nav(props) {
     return (
         <nav>
             <FcGlobe size = {"50px"} />
-           <h1>CarbonCalc</h1>
+           <h1>Carbon-Cal</h1>
            <button
            onClick = {() => setNavBar(!navbar) }>
             <GiHamburgerMenu size = {"30px"} />
